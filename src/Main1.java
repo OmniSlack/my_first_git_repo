@@ -1,7 +1,7 @@
 
 
-public class Main {
-    public static void main(String... args) {
+public class Main1 {
+    public static void main1(String... args) {
 
         String name = "Martin";
         String middleName = "Jordanov";
